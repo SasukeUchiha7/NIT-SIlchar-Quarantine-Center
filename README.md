@@ -1,6 +1,12 @@
 # NIT-SIlchar-Quarantine-Center
 
-### GUI
+A Database Management Application to store information of quarantine students.
+
+### Tech Used :
+  1. MySQL
+  2. Tkinter (for GUI)
+
+### GUI Example
 
 <p align=center>
   <img src='dbms-gui-1.jpg' width="50%" height="50%"/>
