@@ -9,5 +9,5 @@ A Database Management Application to store information of quarantine students.
 ### GUI Example
 
 <p align=center>
-  <img src='dbms-gui-1.jpg' width="50%" height="50%"/>
+  <img src='dbms-gui-1.jpg' width="30%" height="30%"/> <img src='dbms-gui-2.jpg' width="30%" height="30%"/>
 </p>
