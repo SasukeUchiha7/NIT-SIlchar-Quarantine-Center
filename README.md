@@ -1,4 +1,4 @@
-# NIT-SIlchar-Quarantine-Center
+# NIT-Silchar-Quarantine-Center
 
 A Database Management Application to store information of quarantine students.
 
